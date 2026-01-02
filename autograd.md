@@ -1,6 +1,6 @@
 # Intro to Autograd 
 
-## basic mechanics of a single training pass 
+## Basic Mechanics of a Single Training Pass 
 example using a basic RNN
 begin with 4 tensors: x the input, h hidden state of the rnn that gives it its memory, and 2 sets of learning weights; one each for the input and the hidden state 
 
